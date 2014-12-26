@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/TEMP/linaro_SDK/zynq_fsbl0/Debug/zynq_fsbl0.elf
+	/TEMP/linaro_SDK/linaro_hw_hw_platform/system.bit
+	/TEMP/u_boot.elf
+}

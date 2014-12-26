@@ -1,0 +1,2 @@
+
+NET	"i2s_mclk"	LOC="T19"	|	IOSTANDARD=LVCMOS33;

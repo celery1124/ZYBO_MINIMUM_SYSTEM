@@ -1,0 +1,3 @@
+https://releases.linaro.org/14.10/ubuntu/trusty-images/developer
+
+linaro-trusty-developer-20141024-684.tar.gz

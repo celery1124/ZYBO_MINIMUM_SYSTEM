@@ -1,0 +1,13 @@
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=clock_generator;v=v4_03_a;d=clock_
+   generator.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=proc_sys_reset;v=v3_00_a;d=proc_sy
+   s_reset.pdf
+Generated Block Diagram.
+Rasterizing processing_system7_0.jpg.....
+Rasterizing clock_generator_0.jpg.....
+Rasterizing reset_0.jpg.....
+Rasterizing system_blkd.jpg.....
+Report generated.
+Report generation completed.
